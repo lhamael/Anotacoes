@@ -1,0 +1,5 @@
+O Open Shortest Path First, ou OSPF, é um protocolo de estado de enlace. Esse protocolo define uma hierarquia dentro de um sistema autônomo. Ele trabalha definindo um *Backbone* que é a área zero, ou também a área raiz da rede, e outras áreas mais especificas que estarão mais ligadas ao acesso a rede.
+![[Pasted image 20250210171746.png]]
+
+Neste modelo existem os roteadores de borda de área que participam tanto da área do Backbone quanto das demais áreas. Eles que serão responsáveis por receber os pacotes da área 0 e retransmiti-los para dentro de suas áreas.
+Neste modelo, as subredes estarão conectadas as áreas e os roteadores de Backbone tenham o papel de encaminhar os pacotes para cada umas das áreas. Ou seja, os roteadores de backbone não teriam sistemas finais conectados a eles, apenas nos roteadores de áreas.

@@ -1,0 +1,1 @@
+A [[Multiplexação]] por parte do emissor irá se encarregar de manipular os dados que são encaminhados de diferentes Socket, adicionar o cabeçalho na camada de transporte para que possa ser lido no processo de [[Demultiplexação]].

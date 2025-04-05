@@ -1,0 +1,3 @@
+Trata-se de um servidor em uma rede local que armazena os sites mais acessados pelos usuários da rede. Assim, quando algum usuário for acessar novamente o site em um curto espaço de tempo, ao invés da rede realizar a requisição pela internet, o servidor proxy disponibilizará o acesso a rede de forma facilitada diminuindo a congestão da rede.
+No caso de um usuário acessar um site que ainda não foi acessado, então a requisição será feita para fora do servidor acessando o site na internet e armazenando esse site no servidor proxy.
+No caso de um servidor proxy, pelo menos 40% das requisições feitas pelos usuários, poderão ser supridas pelo próprio servidor.

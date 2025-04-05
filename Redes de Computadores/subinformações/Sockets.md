@@ -1,0 +1,1 @@
+É uma espécie de porta entre  a aplicação e o Sistema operacional que vai enviar a mensagem criada pela aplicação para que o sistema operacional empacote e envie essa mensagem pela rede.

@@ -1,0 +1,1 @@
+O Encaminhamento é a decisão a ser tomada em cada roteados que o pacote passar, para evitar eventuais perdas de pacotes e congestionamentos.

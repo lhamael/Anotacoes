@@ -1,0 +1,1 @@
+O roteamento é o processo de definir toda a rota a ser tomada no inicio ao fim de uma viagem que um datagrama fará pela rede.

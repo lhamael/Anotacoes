@@ -1,0 +1,1 @@
+O **Internet Control Message Protocol(ICMP)**, é um protocolo da internet utilizada para reportar erros de alcance, como roteadores ou hosts inalcançáveis. Também é responsável por fazer requisições de ping para saber se uma maquina está conectada a rede.

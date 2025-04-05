@@ -1,0 +1,6 @@
+O [[CDN]] ou também Rede de Distribuição de Conteúdo, é uma forma de trazer para mais próximo do cliente qual dado será consumido de qual servidor.
+Algumas empresas se especializam e distribuir o conteúdo para diferentes regiões geográficas utilizando datacenteres, assim um usuário presente em uma dada região do planeta, poderá escolher em qual servidor ele realizará download e upload de arquivos e objetos ou pode também ser feita de forma automática de acordo com a localização do cliente.
+A ideia das CDNs é fazer com que um usuário consiga acessar o conteúdo de uma empresa, diminuindo o tempo de atraso que o arquivo do vídeo chega ao dispositivo requisitador. 
+
+Um exemplo é o caso da Netflix, que contrata o serviço de uma empresa [[CDN]] de uma região e disponibiliza o seu conteúdo nos servidores desta empresa. Assim, um usuário brasileiro que queira acessar uma série ou filme, não precisará acessar os datacenteres da empresa nos estados unidos, basta acessar os presentes no brasil que já possuem uma gama de conteúdos disponíveis para aquela região.
+![[Pasted image 20250109155608.png]]

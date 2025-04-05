@@ -1,0 +1,1 @@
+O Streaming Dinâmico, Adaptativo sobre HTTP é um protocolo que disponibiliza envia ao usuário pequenos pacotes de dados que correspondem a trechos do vídeo. Esses pacotes podem ser modificados a depender da qualidade do vídeo requisitado pelo usuário. Ou seja, vídeos transmitidos a 1080p terão pacotes (chunks) maiores do que vídeos transmitidos a 144p.
