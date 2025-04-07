@@ -1,5 +1,6 @@
 É um conjunto de números que vai identificar fisicamente onde o dispositivo se localiza. Cada comutador e roteador no mundo possuem um Endereço IP ao qual atrelam esse os dispositivos conectados a eles.
 Exemplo:
+<<<<<<< HEAD
 	O IP da minha casa é: 192.168.0.29
 
 O Endereço IP é identificar de INTERFACES com 32-bits. Ou seja, dispositivos com mais de uma interface podem ter mais de um IP.
@@ -43,3 +44,6 @@ Esse protocolo é o mais utilizado em especial para disponibilização de IPs do
 
 O funcionamento do NAT se dá da seguinte forma. Cada datagrama que for enviado por um host e tiver de sair da rede tem o seu IP modificado, assim, o datagrama passa a receber o mesmo IP valido da rede e o IP do host é convertido em uma porta. Essa porta é a representação do host na internet, sendo que apenas o servidor com NAT responsável pela subrede saberá a quem deverá enviar o datagrama de resposta. Quando um datagrama for recebido de fora da rede, o servidor central com NAT converte a porta em um endereço IP e porta específicos para aquele dispositivo que irá receber o datagrama.
 ![[Pasted image 20250210085732.png]]
+=======
+	O IP da minha casa é: 192.168.0.29
+>>>>>>> cdd330a (Adicionando as notas criadas)
