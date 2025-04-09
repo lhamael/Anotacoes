@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9fb0066b5227c795",
+            "id": "d661525be91779c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Técnicas de Programação 2/Atividade Scrum.md",
+                "file": "Introdução a Inteligência Artificial/2. Métodos para resolução de problemas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atividade Scrum"
+              "title": "2. Métodos para resolução de problemas"
             }
           }
         ]
@@ -168,15 +168,53 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9fb0066b5227c795",
+  "active": "3e94f98f339f5f4d",
   "lastOpenFiles": [
-    "Técnicas de Programação 2/1. Introdução ao Scrum.md",
     "Técnicas de Programação 2/Atividade Scrum.md",
-    "Introdução a Inteligência Artificial/2. Métodos para resolução de problemas.md",
-    "Imagens/Pasted image 20250407152140.png",
-    "Pasted image 20250407150235.png",
-    "Imagens/Pasted image 20250407145245.png",
-    "Imagens/Pasted image 20250407144124.png",
-    "Imagens/Pasted image 20250407144104.png"
+    "Técnicas de Programação 2/1. Introdução ao Scrum.md",
+    "Técnicas de Programação 2",
+    "Sistemas da Informação/Engenharia de requisitos.md",
+    "Sistemas da Informação",
+    "Redes de Computadores/subinformações/servidor proxy.md",
+    "Redes de Computadores/subinformações/round trip time (RTT).md",
+    "Redes de Computadores/subinformações/protocolo da camada de aplicação.md",
+    "Redes de Computadores/subinformações/UDP.md",
+    "Redes de Computadores/subinformações/TCP.md",
+    "Redes de Computadores/subinformações/Sockets.md",
+    "Redes de Computadores/subinformações/SDN.md",
+    "Redes de Computadores/subinformações/Roteamento.md",
+    "Redes de Computadores/subinformações/Roteadores.md",
+    "Redes de Computadores/subinformações/RDT.md",
+    "Redes de Computadores/subinformações/Plano de Dados.md",
+    "Redes de Computadores/subinformações/Plano de Controle.md",
+    "Redes de Computadores/subinformações/Pipeline.md",
+    "Redes de Computadores/subinformações/Paradigma P2P.md",
+    "Redes de Computadores/subinformações/Paradigma Cliente-Servidor.md",
+    "Redes de Computadores/subinformações/OSPF.md",
+    "Redes de Computadores/subinformações/Numero da porta.md",
+    "Redes de Computadores/subinformações/Multiplexação.md",
+    "Redes de Computadores/subinformações/ICMP.md",
+    "Redes de Computadores/subinformações/HTTP.md",
+    "Redes de Computadores/subinformações/Encaminhamento.md",
+    "Redes de Computadores/subinformações/Endereço IP.md",
+    "Redes de Computadores/subinformações/DNS.md",
+    "Redes de Computadores/subinformações",
+    "Redes de Computadores",
+    "Imagens/Pasted image 20250408153014.png",
+    "Introdução a Inteligência Artificial",
+    "Inglês",
+    "Imagens/photo_2025-03-31_14-16-41.jpg",
+    "Imagens/photo_2025-03-27_14-36-45.jpg",
+    "Imagens/Pasted image 20250408141915.png",
+    "Imagens/Pasted image 20250408115752.png",
+    "Imagens/Pasted image 20250408112003.png",
+    "Imagens/Pasted image 20250408111857.png",
+    "Imagens/Pasted image 20250408110540.png",
+    "Imagens/Pasted image 20250408110229.png",
+    "Imagens/Pasted image 20250408105128.png",
+    "Imagens",
+    "Direito Digital",
+    "Banco de Dados",
+    "Redes de Computadores/Imagens"
   ]
 }
