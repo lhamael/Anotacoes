@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introdução a Inteligência Artificial/2. Métodos para resolução de problemas.md",
+                "file": "Técnicas de Programação 2/2. Kanban.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Métodos para resolução de problemas"
+              "title": "2. Kanban"
             }
           }
         ]
@@ -170,10 +170,12 @@
   },
   "active": "d661525be91779c7",
   "lastOpenFiles": [
-    "Imagens/Pasted image 20250409153359.png",
-    "Introdução a Inteligência Artificial/2. Métodos para resolução de problemas.md",
-    "Técnicas de Programação 2/Atividade Scrum.md",
+    "Pasted image 20250409162624.png",
     "Técnicas de Programação 2/1. Introdução ao Scrum.md",
+    "Técnicas de Programação 2/2. Kanban.md",
+    "Introdução a Inteligência Artificial/2. Métodos para resolução de problemas.md",
+    "Imagens/Pasted image 20250409153359.png",
+    "Técnicas de Programação 2/Atividade Scrum.md",
     "Técnicas de Programação 2",
     "Sistemas da Informação/Engenharia de requisitos.md",
     "Sistemas da Informação",
@@ -197,7 +199,6 @@
     "Redes de Computadores/subinformações/Multiplexação.md",
     "Redes de Computadores/subinformações/ICMP.md",
     "Redes de Computadores/subinformações/HTTP.md",
-    "Redes de Computadores/subinformações/Encaminhamento.md",
     "Redes de Computadores/subinformações",
     "Redes de Computadores",
     "Imagens/Pasted image 20250408153014.png",
