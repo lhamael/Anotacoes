@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "b2df393915d6f99d",
+    "id": "758f15c2e7510b2d",
     "type": "split",
     "children": [
       {
-        "id": "262bf648fa552355",
+        "id": "1288364b66e8e72e",
         "type": "tabs",
         "children": [
           {
-            "id": "9799510a51bbc60f",
+            "id": "9fb0066b5227c795",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Direito Digital/Direitos Fundamentais.md",
+                "file": "Técnicas de Programação 2/Atividade Scrum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Direitos Fundamentais"
+              "title": "Atividade Scrum"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0c832a1256a92ea7",
+    "id": "659ed3da79dfd4d4",
     "type": "split",
     "children": [
       {
-        "id": "15e1c6aba8a29c20",
+        "id": "00e2805f0d061132",
         "type": "tabs",
         "children": [
           {
-            "id": "15ad3533175b310a",
+            "id": "3e94f98f339f5f4d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "c721122792ae2927",
+            "id": "7605aaf7da561275",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "controle",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "b9f7329b84049ab3",
+            "id": "f8a89db67ad2f04b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "55ba888fdf554f9a",
+    "id": "269e67906711c15a",
     "type": "split",
     "children": [
       {
-        "id": "e5bfcc81178400df",
+        "id": "543e6eeec754761a",
         "type": "tabs",
         "children": [
           {
-            "id": "b08af1f23113510b",
+            "id": "bf7c10a881d1117b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes de Computadores/Revisão.md",
+                "file": "Introdução a Inteligência Artificial/2. Métodos para resolução de problemas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,53 +104,58 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Revisão"
+              "title": "Links inversos para 2. Métodos para resolução de problemas"
             }
           },
           {
-            "id": "a3eb09016d8f7eb0",
+            "id": "2a366cae11d0e10e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes de Computadores/Camada de Aplicação.md",
+                "file": "Introdução a Inteligência Artificial/2. Métodos para resolução de problemas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Camada de Aplicação"
+              "title": "Links de saída para 2. Métodos para resolução de problemas"
             }
           },
           {
-            "id": "077da0bad221c931",
+            "id": "97904f5768f9d01e",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "b4c3fe93a477d114",
+            "id": "52a3e7376ac9d469",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes de Computadores/HTTP.md"
+                "file": "Introdução a Inteligência Artificial/2. Métodos para resolução de problemas.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de HTTP"
+              "title": "Sumário de 2. Métodos para resolução de problemas"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -163,53 +168,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9799510a51bbc60f",
+  "active": "9fb0066b5227c795",
   "lastOpenFiles": [
-    "Imagens/Pasted image 20250403152943.png",
-    "Banco de Dados/3. BD.md",
-    "Imagens/Pasted image 20250403152902.png",
-    "Imagens/Pasted image 20250403145830.png",
-    "Imagens/Pasted image 20250403145758.png",
-    "Imagens/Pasted image 20250403144419.png",
-    "Imagens/Pasted image 20250403144158.png",
-    "Imagens/Pasted image 20250403144021.png",
-    "Imagens/Pasted image 20250403143950.png",
-    "Imagens/Pasted image 20250403143149.png",
-    "Imagens/Pasted image 20250403141643.png",
     "Técnicas de Programação 2/1. Introdução ao Scrum.md",
-    "Sistemas da Informação/Engenharia de requisitos.md",
-    "Sistemas da Informação",
-    "Introdução a Inteligência Artificial/1. Apresentação.md",
+    "Técnicas de Programação 2/Atividade Scrum.md",
     "Introdução a Inteligência Artificial/2. Métodos para resolução de problemas.md",
-    "Direito Digital/Direitos Fundamentais.md",
-    "Banco de Dados/2. Sistemas de Banco de Dados.md",
-    "Banco de Dados/1. Introdução.md",
-    "Direito Digital",
-    "Técnicas de Programação 2/Sem título.md",
-    "Banco de Dados",
-    "Técnicas de Programação 2",
-    "Segurança Cibernética/Introdução a Segurança.md",
-    "Segurança Cibernética/Plano de Ensino.md",
-    "Segurança Cibernética",
-    "Redes de Computadores/Revisão.md",
-    "Introdução a Inteligência Artificial",
-    "Redes de Computadores/subinformações/Plano de Controle.md",
-    "Redes de Computadores/subinformações/Roteamento.md",
-    "Redes de Computadores/subinformações/Multiplexação.md",
-    "Redes de Computadores/subinformações/Demultiplexação.md",
-    "Redes de Computadores/subinformações/OSPF.md",
-    "Redes de Computadores/subinformações/RDT.md",
-    "Redes de Computadores/subinformações/TCP.md",
-    "Redes de Computadores/Camada de Transporte.md",
-    "Redes de Computadores/subinformações/BGP.md",
-    "Redes de Computadores/Camada de Rede.md",
-    "Redes de Computadores/subinformações/UDP.md",
-    "Pasted image 20250212161725.png.md",
-    "Redes de Computadores/subinformações/SDN.md",
-    "Redes de Computadores/subinformações",
-    "Imagens",
-    "Redes de Computadores",
-    "Inglês",
-    "Sem título.canvas"
+    "Imagens/Pasted image 20250407152140.png",
+    "Pasted image 20250407150235.png",
+    "Imagens/Pasted image 20250407145245.png",
+    "Imagens/Pasted image 20250407144124.png",
+    "Imagens/Pasted image 20250407144104.png"
   ]
 }

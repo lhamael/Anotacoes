@@ -7,6 +7,7 @@
 * Conexão orientada
 	Estabelece uma conexão entre e o cliente e o servidor para enviar o processo.
 
+<<<<<<< HEAD
 Por garantir uma serie de controles, o TCP normalmente tende a ser mais lento do que outros protocolos.
 
 ### Funcionamento do TCP
@@ -85,3 +86,6 @@ Para evitar esse congestionamento, o TCP utilizar um algoritmo comunitária. Em 
 Além disso, o TCP utiliza-se do conceito de neutralidade na rede para estabelecer essa redução, que diz que nenhum cliente terá prioridade no processamento de suas mensagens em detrimento de outro, então se todos serão vistos de forma igual, todos deveram reduzir suas taxas em um congestionamento.
 Ou seja, o TCP segue um comportamento justo, acreditando que todos serão justos.
 Apesar do TCP ser um protocolo justo, outros protocolos como o UDP não são tão justos assim, fazendo um consumo muito maior e desnecessário da rede do que o TCP. Apesar de a maioria das aplicações multimídia utilizarem o UDP para evitar esse controle de congestionamento, o TCP ainda não passou por grandes problemas com isso.
+=======
+Por garantir uma serie de controles, o TCP normalmente tende a ser mais lento do que outros protocolos.
+>>>>>>> cdd330a (Adicionando as notas criadas)
