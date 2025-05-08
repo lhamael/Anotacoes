@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "472be7772205f5bb",
+            "id": "fb4695921eccc470",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introdução a Inteligência Artificial/3. Busca Competitiva.md",
+                "file": "Banco de Dados/5. SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Busca Competitiva"
-            }
-          },
-          {
-            "id": "33d9add9fcb1e06d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Imagens/Pasted image 20250422100915.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250422100915"
+              "title": "5. SQL"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,53 +168,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "33d9add9fcb1e06d",
+  "active": "fb4695921eccc470",
   "lastOpenFiles": [
+    "Banco de Dados/4. Mapeamento do Modelo ER para o Modelo Relacional.md",
+    "Banco de Dados/5. SQL.md",
+    "Sistemas da Informação/3.1 Diagrama de Contexto.md",
+    "Sistemas da Informação/3. Processos de Requisitos.md",
+    "Sistemas da Informação/2. Requisitos no contexto mais amplo.md",
     "Sistemas da Informação/1. Engenharia de requisitos.md",
-    "Sistemas da Informação/6. Requisitos no contexto mais amplo.md",
-    "Imagens/Pasted image 20250422103022.png",
-    "Imagens/Pasted image 20250422101314.png",
-    "Imagens/Pasted image 20250422100915.png",
+    "Introdução a Inteligência Artificial/5. Redes Neurais.md",
     "Banco de Dados/3. BD.md",
-    "Imagens/Pasted image 20250421165742.png",
-    "Banco de Dados/2. Sistemas de Banco de Dados.md",
-    "Imagens/Pasted image 20250421170249.png",
-    "Imagens/Pasted image 20250421170139.png",
-    "Imagens/Pasted image 20250421170025.png",
-    "Imagens/Pasted image 20250421165938.png",
-    "Imagens/Pasted image 20250421165845.png",
-    "Banco de Dados/1. Introdução.md",
-    "Introdução a Inteligência Artificial/2. Métodos para resolução de problemas.md",
+    "Introdução a Inteligência Artificial/5.1 Exercício de fixação 03_Busca Competitiva e RNA.pdf",
+    "Imagens/Pasted image 20250507141633.png",
+    "Técnicas de Programação 2/7..md",
+    "Imagens/Pasted image 20250507150354.png",
+    "Imagens/Pasted image 20250507145159.png",
+    "Imagens/Pasted image 20250507144954.png",
+    "Imagens/Pasted image 20250507143632.png",
+    "Imagens/Pasted image 20250507143558.png",
+    "Imagens/Pasted image 20250507142930.png",
+    "Imagens/Pasted image 20250507142421.png",
+    "Imagens/Pasted image 20250507142219.png",
     "Introdução a Inteligência Artificial/3. Busca Competitiva.md",
-    "Imagens/Pasted image 20250416142814.png",
+    "Introdução a Inteligência Artificial/2.1 Exercício de fixação 01_ Revisão da tentativa.pdf",
+    "Introdução a Inteligência Artificial/2. Métodos para resolução de problemas.md",
+    "Introdução a Inteligência Artificial/1. Apresentação.md",
+    "Introdução a Inteligência Artificial/4. Revisão de Calculo.jpg",
+    "Introdução a Inteligência Artificial/3.1 MCTS (Extra).md",
+    "Técnicas de Programação 2/6. Revisões e inspeção.md",
+    "Técnicas de Programação 2/5. Assertivas.md",
+    "Técnicas de Programação 2/Sem título",
+    "Técnicas de Programação 2/4. Extreme Programming (XP).md",
+    "Técnicas de Programação 2/3. Teste Automatizado.md",
+    "Banco de Dados/2. Sistemas de Banco de Dados.md",
+    "Banco de Dados/1. Introdução.md",
     "Técnicas de Programação 2/2. Kanban.md",
     "Técnicas de Programação 2/4. Kata.md",
-    "Técnicas de Programação 2/3. Teste Automatizado.md",
-    "Introdução a Inteligência Artificial/3.1 MCTS (Extra).md",
     "Introdução a Inteligência Artificial/Sem título.canvas",
     "Técnicas de Programação 2/1. Introdução ao Scrum.md",
     "Técnicas de Programação 2/1.1 Atividade Scrum.md",
     "Direito Digital/LGPD.md",
     "Direito Digital/Direitos Fundamentais.md",
     "2025-04-15.md",
-    "Introdução a Inteligência Artificial/Exercício de fixação 01_ Revisão da tentativa.pdf",
-    "Introdução a Inteligência Artificial/1. Apresentação.md",
     "Técnicas de Programação 2",
     "Sistemas da Informação",
-    "Redes de Computadores/subinformações/servidor proxy.md",
-    "Redes de Computadores/subinformações/round trip time (RTT).md",
-    "Redes de Computadores/subinformações/protocolo da camada de aplicação.md",
-    "Redes de Computadores/subinformações/UDP.md",
-    "Redes de Computadores/subinformações/TCP.md",
-    "Redes de Computadores/subinformações/Sockets.md",
-    "Redes de Computadores/subinformações/SDN.md",
-    "Redes de Computadores/subinformações/Roteamento.md",
     "Redes de Computadores/subinformações",
     "Redes de Computadores",
     "Introdução a Inteligência Artificial",
     "Inglês",
-    "Imagens",
-    "Direito Digital",
-    "Banco de Dados"
+    "Imagens"
   ]
 }
