@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "758f15c2e7510b2d",
+    "id": "b2df393915d6f99d",
     "type": "split",
     "children": [
       {
-        "id": "1288364b66e8e72e",
+        "id": "262bf648fa552355",
         "type": "tabs",
         "children": [
           {
-            "id": "29ae6b723a86fd35",
+            "id": "9799510a51bbc60f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "659ed3da79dfd4d4",
+    "id": "0c832a1256a92ea7",
     "type": "split",
     "children": [
       {
-        "id": "00e2805f0d061132",
+        "id": "15e1c6aba8a29c20",
         "type": "tabs",
         "children": [
           {
-            "id": "3e94f98f339f5f4d",
+            "id": "15ad3533175b310a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "7605aaf7da561275",
+            "id": "c721122792ae2927",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "controle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "f8a89db67ad2f04b",
+            "id": "b9f7329b84049ab3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "269e67906711c15a",
+    "id": "55ba888fdf554f9a",
     "type": "split",
     "children": [
       {
-        "id": "543e6eeec754761a",
+        "id": "e5bfcc81178400df",
         "type": "tabs",
         "children": [
           {
-            "id": "bf7c10a881d1117b",
+            "id": "b08af1f23113510b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introdução a Inteligência Artificial/2. Métodos para resolução de problemas.md",
+                "file": "Redes de Computadores/Revisão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,58 +104,53 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 2. Métodos para resolução de problemas"
+              "title": "Links inversos para Revisão"
             }
           },
           {
-            "id": "2a366cae11d0e10e",
+            "id": "a3eb09016d8f7eb0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introdução a Inteligência Artificial/2. Métodos para resolução de problemas.md",
+                "file": "Redes de Computadores/Camada de Aplicação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para 2. Métodos para resolução de problemas"
+              "title": "Links de saída para Camada de Aplicação"
             }
           },
           {
-            "id": "97904f5768f9d01e",
+            "id": "077da0bad221c931",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "52a3e7376ac9d469",
+            "id": "b4c3fe93a477d114",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introdução a Inteligência Artificial/2. Métodos para resolução de problemas.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "Redes de Computadores/HTTP.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2. Métodos para resolução de problemas"
+              "title": "Sumário de HTTP"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -168,54 +163,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "29ae6b723a86fd35",
+  "active": "15ad3533175b310a",
   "lastOpenFiles": [
-    "Imagens/Pasted image 20250605112410.png",
-    "Pasted image 20250605112221.png",
     "Sistemas da Informação/3.1 Diagrama de Contexto.md",
-    "Banco de Dados/6. AQL.md",
-    "Banco de Dados/5. SQL.md",
-    "Técnicas de Programação 2/1.1 Atividade Scrum.md",
-    "Técnicas de Programação 2/Projeto Final.md",
-    "Imagens/Pasted image 20250604141926.png",
-    "Introdução a Inteligência Artificial/9. Logica Proposicional.md",
-    "Introdução a Inteligência Artificial/5. Redes Neurais.md",
-    "Introdução a Inteligência Artificial/6. Arvores de Decisões.md",
-    "Imagens/Pasted image 20250604142127.png",
-    "Imagens/Pasted image 20250603162757.png",
-    "Banco de Dados/4. Mapeamento do Modelo ER para o Modelo Relacional.md",
-    "Imagens/Pasted image 20250603163137.png",
-    "Imagens/Pasted image 20250603163120.png",
-    "Imagens/Pasted image 20250603163019.png",
-    "Imagens/Pasted image 20250603162952.png",
-    "Imagens/Pasted image 20250603162820.png",
-    "Imagens/Pasted image 20250603153035.png",
-    "Introdução a Inteligência Artificial/8. Deep Learning - CNN.md",
-    "Sistemas da Informação/3. Processos de Requisitos.md",
-    "Técnicas de Programação 2/8. Casos de Uso.md",
-    "Técnicas de Programação 2/7. Testes.md",
-    "Sistemas da Informação/Sistema de Alerta de Inundações - Iniciação - Rafael Bonach - 221008365.pdf",
-    "Técnicas de Programação 2/5. Assertivas.md",
-    "Técnicas de Programação 2/6. Revisões e inspeção.md",
-    "Técnicas de Programação 2/3. Teste Automatizado.md",
-    "Técnicas de Programação 2/4. Extreme Programming (XP).md",
-    "Sistemas da Informação/1. Engenharia de requisitos.md",
-    "Sistemas da Informação/2. Requisitos no contexto mais amplo.md",
-    "Introdução a Inteligência Artificial/7. SOM.md",
-    "Introdução a Inteligência Artificial/2. Métodos para resolução de problemas.md",
-    "Introdução a Inteligência Artificial/3. Busca Competitiva.md",
-    "Introdução a Inteligência Artificial/5.1 Exercício de fixação 03_Busca Competitiva e RNA.pdf",
-    "Introdução a Inteligência Artificial/3.1 MCTS (Extra).md",
-    "Introdução a Inteligência Artificial/1. Apresentação.md",
-    "Técnicas de Programação 2/2. Kanban.md",
-    "Introdução a Inteligência Artificial/2.1 Exercício de fixação 01_ Revisão da tentativa.pdf",
-    "Técnicas de Programação 2/Sem título",
-    "Introdução a Inteligência Artificial/Sem título.canvas",
-    "Técnicas de Programação 2",
-    "Sistemas da Informação",
+    "Redes de Computadores/subinformações/UDP.md",
+    "Redes de Computadores/subinformações/TCP.md",
+    "Redes de Computadores/subinformações/Sockets.md",
+    "Redes de Computadores/subinformações/servidor proxy.md",
+    "Redes de Computadores/subinformações/SDN.md",
+    "Redes de Computadores/subinformações/round trip time (RTT).md",
+    "Redes de Computadores/subinformações/Roteamento.md",
+    "Redes de Computadores/subinformações/Roteadores.md",
+    "Redes de Computadores/subinformações/RDT.md",
+    "Redes de Computadores/subinformações/protocolo da camada de aplicação.md",
+    "Redes de Computadores/subinformações/Plano de Dados.md",
+    "Redes de Computadores/subinformações/Plano de Controle.md",
+    "Redes de Computadores/subinformações/Pipeline.md",
+    "Redes de Computadores/subinformações/Paradigma P2P.md",
+    "Redes de Computadores/subinformações/Paradigma Cliente-Servidor.md",
+    "Redes de Computadores/subinformações/OSPF.md",
+    "Redes de Computadores/subinformações/Numero da porta.md",
+    "Redes de Computadores/subinformações/Multiplexação.md",
+    "Redes de Computadores/subinformações/ICMP.md",
+    "Redes de Computadores/subinformações/HTTP.md",
+    "Redes de Computadores/subinformações/Endereço IP.md",
+    "Redes de Computadores/subinformações/Encaminhamento.md",
+    "Redes de Computadores/subinformações/DNS.md",
+    "Redes de Computadores/subinformações/Demultiplexação.md",
+    "Redes de Computadores/subinformações/DASH.md",
     "Redes de Computadores/subinformações",
     "Redes de Computadores",
+    "Introdução a Inteligência Artificial/5.1 Exercício de fixação 03_Busca Competitiva e RNA.pdf",
+    "Introdução a Inteligência Artificial/4. Revisão de Calculo.jpg",
+    "Introdução a Inteligência Artificial/2.1 Exercício de fixação 01_ Revisão da tentativa.pdf",
     "Introdução a Inteligência Artificial",
-    "Inglês"
+    "Inglês/Pasted image 20250512152448.png",
+    "Inglês/Pasted image 20250512152316.png",
+    "Inglês/Pasted image 20250512152021.png",
+    "Inglês/Pasted image 20250512145809.png",
+    "Inglês/Pasted image 20250512145526.png",
+    "Inglês/Pasted image 20250512145429.png",
+    "Inglês/Pasted image 20250512144155.png",
+    "Inglês/Pasted image 20250512143954.png",
+    "Inglês/Pasted image 20250512142402.png",
+    "Inglês",
+    "Imagens",
+    "Direito Digital",
+    "Banco de Dados",
+    "Técnicas de Programação 2",
+    "Sem título.canvas"
   ]
 }
